@@ -47,7 +47,7 @@ body {
 .hero {
   text-align: center;
   padding: 100px 20px;
-  background-image: url("image/logo-de-fundo.png");
+  background-image: url("img/logo (1).png");
   background-repeat: no-repeat;
   background-position: right;
   background-size: 400px;
@@ -166,7 +166,7 @@ body {
   width: 300px;
   height: 250px;
   background: #2D82B733;
-  background-image: url(/portforio/image/Vector.png);
+  background-image: url(img/robo.png);
   background-repeat: no-repeat;
   background-position: right;
   background-position-y: 30px;
@@ -202,7 +202,7 @@ body {
 .contato-container {
   background-color: #2D82B733;
   padding: 60px 20px;
-  background-image: url(/portforio/image/logo-contato.png);
+  background-image:url(img/logo\ \(2\).png);
   background-repeat: no-repeat;
   background-position-y: 250px;
   margin: 100px auto;
