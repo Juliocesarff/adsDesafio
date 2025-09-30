@@ -25,3 +25,19 @@ Você pode acessar o projeto diretamente no GitHub Pages (se publicado) ou segui
 ### 1. Clone o repositório
 ```bash
 git clone https://github.com/Juliocesarff/adsDesafio.git
+
+.
+├── index.html
+├── style.css
+├── assets/
+│   ├── imagens/
+│   └── fontes/
+└── README.md
+
+📬 Contato
+
+Se quiser falar comigo ou conhecer mais sobre meu trabalho:
+
+LinkedIn: https://www.linkedin.com/in/j%C3%BAlio-ara%C3%BAjo-624764382/
+
+Email: juliochavesaraujo.6@gmail.com
